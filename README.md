@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matvei Egrishchin!
 
-I'm a Fullstack Developer with a strong interest in crafting efficient and scalable applications. My expertise lies in the **backend**, particularly with **PHP**, where I focus on building robust APIs. I also enjoy developing dynamic user interfaces using **Vue.js** and **TypeScript**.
+I'm a PHP Developer with a strong interest in crafting efficient and scalable applications. My expertise lies in the **backend**, particularly with **PHP**, where I focus on building robust APIs. I also enjoy developing dynamic user interfaces using **Vue.js** and **TypeScript**.
  
  ## 🛠️ Tech Stack & Tools
 
